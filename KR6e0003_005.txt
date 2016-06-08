@@ -1,27 +1,22 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-09-28 22:53:14.493160
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 13:09
 #+TITLE: 大方廣佛華嚴經搜玄分齊通智方軌
 #+PROPERTY: CBETA_ID T35n1732
 #+PROPERTY: ID KR6e0003
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 35, No. 1732
 #+PROPERTY: VOL 35
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6e0003_T_000-0013b>¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6e0003_T_005-0087c> 
 #+PROPERTY: JUAN 5
 ¶
-
- 第五之上大方廣佛華嚴經搜玄分齊通智¶
+大方廣佛華嚴經搜玄分齊通智¶
 方軌卷第五(之上)¶
 ¶
 終南山至相寺沙門智儼述¶
 
-34入法界品
-:PROPERTIES:
-:head: 入法界品第三十四
-:END:
-¶
+* 入法界品第三十四¶
 
 此是第八會在祇桓重閣說。所以在祇桓¶
 攝化始故。所以在重閣表悲心在正智上¶
@@ -922,8 +917,7 @@
 (之上)
 <pb:KR6e0003_T_005-0097c>¶
 ¶
-
- 第五之下大方廣佛華嚴經搜玄分齊通智¶
+大方廣佛華嚴經搜玄分齊通智¶
 方軌卷第五(之下)¶
 ¶
 終南山至相寺沙門智儼述¶

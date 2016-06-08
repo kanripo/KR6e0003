@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-09-28 22:53:14.382181
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 13:09
 #+TITLE: 大方廣佛華嚴經搜玄分齊通智方軌
 #+PROPERTY: CBETA_ID T35n1732
 #+PROPERTY: ID KR6e0003
@@ -17,7 +17,7 @@
 ¶
 終南山至相寺沙門智儼述¶
 
-22十地品
+* 22十地品
 :PROPERTIES:
 :head: 第六他化天會十地品二十二
 :END:
